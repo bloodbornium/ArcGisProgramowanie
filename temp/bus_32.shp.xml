@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="pl"><Esri><CreaDate>20260204</CreaDate><CreaTime>16265500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Analysis Tools.tbx\Select" Date="20260204" Time="162655">Select bus_points_layer C:\Users\N\FolderRoboczy\ArcGisProgramowanie\temp\bus_32.shp "bus_id = 32"</Process></lineage></DataProperties></Esri></metadata>
